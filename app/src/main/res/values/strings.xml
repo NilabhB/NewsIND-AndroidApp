@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NewsIND</string>
+    <string name="app_by_nilabh">App by Nilabh</string>
+    <string name="newsind">NewsIND</string>
+    <string name="headlines">Headlines</string>
+    <string name="business">Business</string>
+    <string name="technology">Technology</string>
+    <string name="sports">Sports</string>
+    <string name="science">Science</string>
+    <string name="health">Health</string>
+    <string name="bbc_headlines">BBC Headlines</string>
+
+</resources>
