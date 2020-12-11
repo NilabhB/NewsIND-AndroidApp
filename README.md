@@ -11,7 +11,7 @@ https://drive.google.com/file/d/1EBmFtZYYzxd_Nha2QixAANKF1TC-htiF/view?usp=shari
 
 
 
-Some screenshots of the app is attached below.
+Some screenshots of this app are attached below.
 
 <img src="Images/NewsINDthumbnail.jpg" height="600" width="300" > <img src="Images/SplashScreen.jpg" height="600" width="300" >
 <img src="Images/MainActivity.jpg" height="600" width="300" > <img src="Images/RecyclerView1.jpg" height="600" width="300" >
