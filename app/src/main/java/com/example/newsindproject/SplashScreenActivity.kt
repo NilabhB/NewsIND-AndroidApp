@@ -11,6 +11,8 @@ class SplashScreenActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_splash_screen)
 
+
+        supportActionBar?.hide()
         val imageID: ImageView = findViewById(R.id.imageID)
         val textNameID: TextView = findViewById(R.id.textNameID)
         val textAppID: TextView = findViewById(R.id.textAppID)
