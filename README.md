@@ -7,11 +7,19 @@ This is a project based application using APIs from newsapi.org. This app is not
 
 However if you choose to use this app, you can download it from the link below. 
 
-https://drive.google.com/file/d/1EBmFtZYYzxd_Nha2QixAANKF1TC-htiF/view?usp=sharing
+https://drive.google.com/file/d/1EBmFtZYYzxd_Nha2QixAANKF1TC-htiF/view?usp=sharing  (Version 1.0)
+
+https://drive.google.com/file/d/12APwax1b9V55LPyH-STSDpVHTCh685AA/view?usp=sharing  (Updated version - Fixed ActionBar on SplashScreen)
 
 
 
-Some screenshots of this app are attached below.
+<img src="Images/NewsIND (Updated).gif" height="700" width="350" >
+
+
+
+The above gif is from the updated version of this app.
+
+Some screenshots from the previous version of this app are attached. 
 
 <img src="Images/NewsINDthumbnail.jpg" height="600" width="300" > <img src="Images/SplashScreen.jpg" height="600" width="300" >
 <img src="Images/MainActivity.jpg" height="600" width="300" > <img src="Images/RecyclerView1.jpg" height="600" width="300" >
