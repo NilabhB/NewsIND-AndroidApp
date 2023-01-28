@@ -24,8 +24,7 @@
         android:maxLines="2"
         android:ellipsize="end"
         android:layout_marginTop="12dp"
-        android:textSize="18sp"
-        android:textColor="#212121"/>
+        android:textSize="18sp" />
 
     <TextView
         android:id="@+id/author"
